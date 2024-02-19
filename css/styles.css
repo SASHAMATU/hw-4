@@ -434,16 +434,16 @@ img {
 .section-footer {
     background-color: #2E2F42;
     padding: 100px 0;
-    width: 1158px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin: 0 auto;
-    align-items: baseline;
-    display: flex;
+    
 }
 
 .footer-content {
-    display: flex;
+width: 1158px;
+padding-left: 15px;
+padding-right: 15px;
+margin: 0 auto;
+align-items: baseline;
+display: flex;
    
 }
 
