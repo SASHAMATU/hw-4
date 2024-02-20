@@ -615,13 +615,12 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cu
     color: #2E2F42;
 }
 .modal-field{
-margin-bottom: 8px;
 margin-bottom: 16px;
 
 }
 .container-checkbox{
     margin-bottom: 24px;
-    margin-bottom: 8px;
+   
 }
 .modal-input-wrap{
     position: relative;
@@ -635,6 +634,7 @@ margin-bottom: 16px;
     background-color: transparent;
     padding-left: 38px;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    margin-bottom: 8px;
     
     
 }
