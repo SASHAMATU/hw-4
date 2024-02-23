@@ -635,7 +635,7 @@ margin-bottom: 8px;
     background-color: transparent;
     padding-left: 38px;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-margin-bottom: 24px;
+
 }
 .modal-input:focus{
     border-color:#4D5AE5;
@@ -718,7 +718,7 @@ margin-bottom: 24px;
     border-radius: 2px;
 }
 .check-text a{
-    color: var(--IRIS, #4D5AE5);
+    color: var( #4D5AE5);
 }
 .check-text span{
     width: 16px;
@@ -734,10 +734,10 @@ margin-bottom: 24px;
     background-color: #404BBF;
     border: none;
     fill: #F4F4FD;
-
 }
+
 .send-btn{
-display: block;
+    display: block;
     min-width: 169px;
     height: 56px;
     color: #ffffff;
@@ -762,8 +762,7 @@ display: block;
 
 
 .form-footer{
-   margin-left: 159px;
-    
+    margin-left: 159px;   
 }
 
 .group-form {
